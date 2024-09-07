@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 5
-description: a project with a background image
+description: In a previous life, I dabbled with graphic design for a bit. 
 img: assets/img/1.jpg
 importance: 3
 category: fun
