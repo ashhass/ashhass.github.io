@@ -9,12 +9,12 @@ profile:
   image_circular: false # crops the image to make it circular
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: True # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently working on creating a YouTube series on the chronology of AI algorithms, hoping to understand how novel ideas are generated. I also work on 
+independent research projects. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I was previously a research assistant at KAUST working on concept based interpretability models. Before that, I spent sometime at the University of 
+Michigan working on hand and held-object segmentation. I graduated from Addis Ababa University with a Bachelor's in Software Engineering. 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: The Georgetown Experiment Implementation.
+description: Reproducing the experiment that resulted in the first NLP hype in python.
 img: assets/img/7.jpg
 importance: 3
 category: work
