@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Georgetown Experiment Implementation.
+title: The Georgetown Experiment.
 description: Reproducing the experiment that resulted in the first NLP hype in python.
 img: assets/img/7.jpg
 importance: 3
