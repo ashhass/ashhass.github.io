@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 
 profile:
@@ -13,8 +13,10 @@ selected_papers: True # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently working on creating a YouTube series on the chronology of AI algorithms, hoping to understand how novel ideas are generated. I also work on 
-independent research projects. 
+I am currently developing a YouTube series that explores the chronological evolution of AI algorithms. My research interests focus on model interpretability and evaluation, with a particular goal of understanding how models learn, store, and represent concepts. Ultimately, I seek to explore ways to inject and modify concepts within neural networks, advancing our ability to refine and control their learning processes.
 
-I was previously a research assistant at KAUST working on concept based interpretability models. Before that, I spent sometime at the University of 
-Michigan working on hand and held-object segmentation. I graduated from Addis Ababa University with a Bachelor's in Software Engineering. 
+I was previously a research assistant at KAUST where I worked on concept based interpretability research. Before that, I spent sometime at the University of 
+Michigan working on hand and held-object segmentation. I graduated from Addis Ababa University with a Bachelor's degree in Software Engineering. 
+
+I'm actively looking for Research Engineer positions. I do not have a PhD nor a Masters degree, but I can do/read/talk (about) research for 12 hours a day. 
+
