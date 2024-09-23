@@ -78,6 +78,9 @@ Despite these constraints, this approach introduced key concepts that are still 
 2. The concept of breaking words into complete and partial forms is echoed in modern NLP through tokenization, where words are split into multipe subwords.
 
 This experiment sparked widespread interest among researchers and led to the first wave of NLP hype, which lasted about a decade. In 1966, the ALPAC report sharply criticized the lack of significant progress in machine translation research over the previous decade. As a result, the U.S. government drastically reduced funding for the field, contributing to the onset of the first AI winter.
+
+<i>Project code can be found <u><a href='https://github.com/ashhass/The-Georgetown-Experiment'>here</a></u></i>
+
 <h5><b> References </b> </h5>
 1. W. John Hutchins. 2004. The Georgetown-IBM experiment demonstrated in January 1954. In Proceedings of the 6th Conference of the Association for Machine Translation in the Americas: Technical Papers, pages 102–114, Washington, USA. Springer.
 2. Sheridan, Peter B.. “Research in language translation on the IBM type 701.” (1955).

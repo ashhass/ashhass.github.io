@@ -94,6 +94,4 @@ I mostly did illustrations. But, they're too personal to be roaming around on th
 </div>
 
 
-Why I would never do graphic design as a career? Managers don't yet understand this career. It doesn't matter if THEY like green text over red background,
-the consumer should be the center of the equation. There's an entire book on color theory and how you can manipulate the brain with it. Plus, I actually never even
-thought of it as a career.
+Why I think Graphic Design is not Art? Art is about expressing yourself. Graphic Design is about understanding others. GD has measurable outcomes. But, both tap into the human psyche and trigger some feeling. In some way, I think GD is manipulative. It triggers emotions that compel people to take an action we want. 

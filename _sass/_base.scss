@@ -1063,7 +1063,7 @@ nav[data-toggle="toc"] {
 
 .featured-posts {
   a {
-    color: var(--global-text-color-light);
+    color: black;
     text-decoration: none;
 
     .card-text {
@@ -1161,7 +1161,7 @@ ninja-keys::part(ninja-input-wrapper) {
 
 .newsletter-form-input,
 .bibsearch-form-input {
-  color: var(--global-newsletter-text-color);
+  color: black;
   background: var(--global-newsletter-bg-color);
   border: 1px solid var(--global-newsletter-text-color);
   outline: none;
