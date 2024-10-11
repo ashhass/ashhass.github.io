@@ -65,7 +65,7 @@ List of opportunities and advice I found either online or through talking to res
 
 <h4>Resources for ML interview prep</h4>
 
-From the info I gathered Research Scientist interviews are much easier on the coding side, so this is probably an overkill. For ML/Research Engineers however, you have to be able to solve most of these questions within a limited time frame while talking through your thought process to an engineer who is there solely to expose how crappy of an engineer you are (jk😶). 
+From the info I gathered, Research Scientist interviews are much easier on the coding side, so this is probably an overkill. For ML/Research Engineers however, you have to be able to solve most of these questions within a limited time frame while talking through your thought process to an engineer who is there solely to expose how crappy of an engineer you are (jk😶). 
 
 1. <u><a href = 'https://www.deep-ml.com/'> ML Practice problems</a></u>. This one is a must. I can easily pick a handful of problems from this list that I was asked in interviews for research focused roles. 
 
@@ -74,3 +74,5 @@ From the info I gathered Research Scientist interviews are much easier on the co
 3. Some companies conduct pre-screens on <u> <a href = 'https://learn.codesignal.com/course-paths'>CodeSignal. </a></u>
 
 4. <u> <a href = 'https://docs.google.com/document/d/1Zjyc4v1fYPI4t-0M31P1tJr0zW55VkFKu7YWJoBhDOs/edit?tab=t.0#heading=h.4hu340txes8w'>ML Interview Guide </a></u>
+
+5. Want to learn how to write cleaner ML code? <u><a href = 'https://github.com/aai-institute/beyond-jupyter'>Here is a repo for that.</a></u>
