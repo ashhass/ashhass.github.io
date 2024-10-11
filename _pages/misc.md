@@ -37,7 +37,7 @@ List of opportunities and advice I found either online or through talking to res
     1. <u> <a href = 'https://www.matsprogram.org/'>MATS program</a></u>
     2. <u> <a href = 'https://www.kasl.ai/2024/01/16/interns-2024/'>ERA-KASL Safety Internship</a></u>
     3. <u> <a href = 'https://erafellowship.org/'>ERA Fellowship</a></u>
-    4. <u> <a href = 'https://arena3-chapter1-transformer-interp.streamlit.app/'>ARENA tutorials</a></u>
+    4. ARENA tutorials
     5. <u> <a href = 'https://80000hours.org/'>80,000 hours</a></u>
     
     <br>
