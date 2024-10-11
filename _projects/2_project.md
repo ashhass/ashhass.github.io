@@ -3,9 +3,9 @@ layout: page
 title: The Georgetown Experiment.
 description: The mother of all NLP hype.
 img: assets/img/nlp.jpeg
-importance: 2
 category: work
 related_publications: true
+date: Sept 23, 2023
 ---
 <h5> <b>Why this series? </b></h5>
 

@@ -3,7 +3,6 @@ layout: page
 title: MP2S
 description: Modernizing Public Security Systems.
 img: assets/img/20.png
-importance: 3
 category: work
 giscus_comments: false
 date: July 20, 2023

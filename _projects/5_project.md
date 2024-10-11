@@ -3,7 +3,6 @@ layout: page
 title: My past designs.
 description: Design snippets from a past life that I can barely remember.
 img: assets/img/profile.png
-importance: 5
 category: fun
 related_publications: true
 ---
