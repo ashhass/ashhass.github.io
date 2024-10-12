@@ -54,4 +54,8 @@ group :jekyll_plugins do
     gem 'google-protobuf', '4.27.3'
     gem 'namae', '1.2.0'
     gem 'rake', '13.2.1'
+    gem 'activesupport', '7.2.1'
+    gem 'concurrent-ruby', '1.3.4'
+    gem 'logger', '1.6.1'
+    gem 'minitest', '5.25.1'
 end
