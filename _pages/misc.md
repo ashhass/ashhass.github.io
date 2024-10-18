@@ -41,27 +41,25 @@ List of opportunities and advice I found either online or through talking to res
     5. <u> <a href = 'https://80000hours.org/'>80,000 hours</a></u>
     
     <br>
-    There are many more resources and companies working on mechanistic interpretability and AI Safety. To find all of them, look for programs or companies <u><a href = 'https://www.openphilanthropy.org/'>Open Philanthropy</a></u> funds. You might observe all of them have one common denominator: they’re part of the Effective Altruism movement. Make your own judgement. 
+    There are many more resources and companies working on mechanistic interpretability and AI Safety. To find all of them, look for programs or companies <u><a href = 'https://www.openphilanthropy.org/'>Open Philanthropy</a></u> funds. You might observe all of them have one common denominator: they’re part of the Effective Altruism movement (train your ears to hear about AI X-risk regularly).  
 
 <h4>Advice</h4> 
 
-1. Advice I got for landing research roles without a grad school degree (from Research Scientists): It’s very hard for reasons beyond technical qualifications. What you can do is target engineering roles then transfer internally. The semi word for word advice was: ‘I don’t know why enough people don’t do this, but you can transfer to research roles from engineering roles in any company if you show interest. But keep in mind that the line between research and engineering is very blurry and only getting blurrier’. Another researcher: ‘You can also target smaller companies who do not put much emphasis on degrees and titles….also there are many PhD grads working as Research/Software Engineers (understand your competition).’
+1. Advice I got for landing research roles without a grad school degree (from Research Scientists): It’s very hard for reasons beyond technical qualifications. What you can do is target engineering roles then transfer internally. The semi word for word advice was: ‘I don’t know why enough people don’t do this, but you can transfer to research roles from engineering roles in any company if you show interest. But keep in mind that the line between research and engineering is very blurry and only getting blurrier’. Another researcher: ‘You can also target smaller companies who do not put much emphasis on degrees and titles….also there are many PhD grads working as Research/Software Engineers in research teams (understand your competition).’
 
 2. ‘You gotta work on the right problem at the right time in the right way, otherwise you’re doomed.’ ~ Richard Hamming
     
-    I surveyed the linkedin profiles of hundreds of researchers to understand which ones become audibly successful and which ones do not. It’s not only about how smart you are, you have to choose a timely problem to work on. My observation: most researchers who graduated with a PhD pre-deep learning explosion or those who didn’t work on hot problems ended up as engineers (either product focused or research focused) while those who worked on deep learning continued doing research in research-focused teams (which are the ones you probably hear about). 
+    I surveyed the linkedin profiles of hundreds of researchers to understand which ones become audibly successful and which ones do not. It’s not only about how smart you are, you have to choose a timely problem to work on. My observation: most researchers who graduated with a PhD pre-deep learning explosion or those who didn’t work on hot problems ended up as engineers (either product focused or research focused) while those who worked on deep learning continued doing/leading research projects in research-focused labs (which are the ones you probably hear about). 
     
-3. <u><a href = 'https://web.mit.edu/tslvr/www/lessons_two_years.html'>Some general advice on navigating research life.</a></u> There are a lot of researchers who put their experience out on the Internet. These are very valuable as it dispels a lot of unrealistic perceptions about what grad school and research are like. A quick perplexity search provides lots of links.
+3. <u><a href = 'https://web.mit.edu/tslvr/www/lessons_two_years.html'>Some general advice on navigating research life.</a></u> There are many researchers who put their experience out on the Internet. These are very valuable, as they dispel many unrealistic expectations about what grad school and research are like. A quick perplexity search provides lots of links.
 
 4. Your work/research is not going to publicize itself. Read ‘*The Worlds I See*’ book by Fei Fei Li where she talks about the struggles she went through to garner attention to ImageNet (No, people were not begging for access to the dataset). 
 
-5. Having a PhD makes your opinions more valuable to the public and eventually to yourself. You start saying ‘it is’ rather than ‘I think’ (based on my observation). Without it, anything you say or write will be heavily scrutinized (probably ignored). Be ready to deal with that. 
+5. Having a PhD makes your opinions more valuable to the public and eventually to yourself. You start your sentences with ‘it is’ rather than ‘I think’ (based on my observation). Without it, anything you say or write will be heavily scrutinized (mostly ignored). Be ready to deal with that. 
 
-6. I generally try to avoid talking to professors about targeting a research role without a grad school degree even if they hold open office hours (which is rare for professors). Most of them are discouraging — justifiably so. But, if you want to do research but can’t do grad school because of health or family issues or other reasons you don’t want to disclose, there is an alternative way.  
+6. ‘Are you happy?’ I have been obnoxiously asking this question to most researchers that I talked with in the past year (I clarify that I’m asking career-wise). I don’t know why I keep asking this question as I don’t expect them to tell me the truth anyway. But I like to see them reflect on their lives in a few seconds and in someway I get my answer through listening beyond the words. On a side note, I personally think that happiness is a choice you make rather than a reaction to your circumstances. 
 
-7. ‘Are you happy?’ I have been obnoxiously asking this question to most researchers that I talked with in the past year (I clarify that I’m asking career-wise). I don’t know why I keep asking this question as I don’t expect them to tell me the truth anyway. But I like to see them reflect on their lives in a few seconds and in someway I get my answer through listening beyond the words. On a side note, I personally think that happiness is a choice you make rather than a reaction to your circumstances. 
-
-8. ‘First make decisions and then make them right.’ ~ Ratan Tata
+7. ‘First make decisions and then make them right.’ ~ Ratan Tata
 
 <h4>Resources for ML interview prep</h4>
 
@@ -69,7 +67,7 @@ From the info I gathered, Research Scientist interviews are much easier on the c
 
 1. <u><a href = 'https://www.deep-ml.com/'> ML Practice problems</a></u>. This one is a must. I can easily pick a handful of problems from this list that I was asked in interviews for research focused roles. 
 
-2. Big tech companies still ask LeetCode style questions for interviews, but there are many smaller AI companies that don’t but focus on 1 more heavily. <u><a href = 'https://leetcode.com/, https://neetcode.io/roadmap'>NeetCode roadmap</a></u> is very useful to structure your practice.
+2. Big tech companies still ask LeetCode style questions for interviews, but there are many smaller AI companies that don’t, and focus on 1 more heavily instead. <u><a href = 'https://leetcode.com/, https://neetcode.io/roadmap'>NeetCode roadmap</a></u> is very useful to structure your practice.
 
 3. Some companies conduct pre-screens on <u> <a href = 'https://learn.codesignal.com/course-paths'>CodeSignal. </a></u>
 
