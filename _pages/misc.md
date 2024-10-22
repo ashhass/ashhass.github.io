@@ -53,13 +53,15 @@ List of opportunities and advice I found either online or through talking to res
     
 3. <u><a href = 'https://web.mit.edu/tslvr/www/lessons_two_years.html'>Some general advice on navigating research life.</a></u> There are many researchers who put their experience out on the Internet. These are very valuable, as they dispel many unrealistic expectations about what grad school and research are like. A quick perplexity search provides lots of links.
 
-4. Your work/research is not going to publicize itself. Read ‘*The Worlds I See*’ book by Fei Fei Li where she talks about the struggles she went through to garner attention to ImageNet (No, people were not begging for access to the dataset). 
+4. <a href = 'https://www.eugenevinitsky.com/posts/coldemails/'> Advice on cold-emailing. </a>
 
-5. Having a PhD makes your opinions more valuable to the public and eventually to yourself. You start your sentences with ‘it is’ rather than ‘I think’ (based on my observation). Without it, anything you say or write will be heavily scrutinized (mostly ignored). Be ready to deal with that. 
+5. Your work/research is not going to publicize itself. Read ‘*The Worlds I See*’ book by Fei Fei Li where she talks about the struggles she went through to garner attention to ImageNet (No, people were not begging for access to the dataset). 
 
-6. ‘Are you happy?’ I have been obnoxiously asking this question to most researchers that I talked with in the past year (I clarify that I’m asking career-wise). I don’t know why I keep asking this question as I don’t expect them to tell me the truth anyway. But I like to see them reflect on their lives in a few seconds and in someway I get my answer through listening beyond the words. On a side note, I personally think that happiness is a choice you make rather than a reaction to your circumstances. 
+6. Having a PhD makes your opinions more valuable to the public and eventually to yourself. You start your sentences with ‘it is’ rather than ‘I think’ (based on my observation). Without it, anything you say or write will be heavily scrutinized (mostly ignored). Be ready to deal with that. 
 
-7. ‘First make decisions and then make them right.’ ~ Ratan Tata
+7. ‘Are you happy?’ I have been obnoxiously asking this question to most researchers that I talked with in the past year (I clarify that I’m asking career-wise). I don’t know why I keep asking this question as I don’t expect them to tell me the truth anyway. But I like to see them reflect on their lives in a few seconds and in someway I get my answer through listening beyond the words. On a side note, I personally think that happiness is a choice you make rather than a reaction to your circumstances. 
+
+8. ‘First make decisions and then make them right.’ ~ Ratan Tata
 
 <h4>Resources for ML interview prep</h4>
 
