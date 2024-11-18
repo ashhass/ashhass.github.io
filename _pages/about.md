@@ -17,5 +17,3 @@ I am currently working on a series that explores the chronological evolution of 
 
 I was previously a research assistant at KAUST where I worked on concept based interpretability research. Before that, I spent sometime at the University of 
 Michigan working on hand and held-object segmentation. I graduated from Addis Ababa University with a Bachelor's degree in Software Engineering. 
-
-I'm actively looking for Research Engineer positions.
