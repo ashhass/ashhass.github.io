@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: A growing collection of my projects. {Some preview images are AI Generated}
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: [work, fun]
 horizontal: false
 ---
