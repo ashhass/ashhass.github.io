@@ -4,9 +4,6 @@
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
-      
-      <meta http-equiv="refresh" content="3; url=/">
-    
     <!-- Metadata, OpenGraph and Schema.org -->
 
 
@@ -20,12 +17,13 @@
   
   
     
-      Page not found | Ayda Sultan
+      What is mechanistic interpretability? | Ayda Sultan
     
   
 </title>
 <meta name="author" content="Ayda Sultan">
-<meta name="description" content="Looks like there has been a mistake. Nothing exists here.">
+<meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+">
 
 
 
@@ -59,7 +57,7 @@
 
 
 <link rel="stylesheet" href="/assets/css/main.css?d41d8cd98f00b204e9800998ecf8427e">
-<link rel="canonical" href="http://localhost:4000/404.html">
+<link rel="canonical" href="http://localhost:4000/2025/05/04/What-is-Mechanistic-Interpretability.html">
 
 <!-- Dark Mode -->
 <script src="/assets/js/theme.js?a265fe44cbabefcf9f0a609032d1c35c"></script>
@@ -199,12 +197,14 @@
       
         <div class="post">
   <header class="post-header">
-    <h1 class="post-title">Page not found</h1>
-    <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+    <h1 class="post-title">What is mechanistic interpretability?</h1>
+    <p class="post-description"></p>
   </header>
 
   <article>
-    <p>You will be redirected to the main page within 3 seconds. If not redirected, please go back to the <a href="http://localhost:4000">home page</a>.</p>
+    <p>If not for deep learning, using computers to perform tasks would require carefully crafting each feature and the interconnection between features. Gradient descent relieves us from this trouble by extracting variables and trying out different combinations of variables to maximize an objective function that we specify. Now the problem is that these variables could be non-causal. Just because a cow always appear in grassy areas in the dataset we feed into our model doesn’t mean that it ceases to be a cow in the desert. Grass, in this case, is a confounding variable rather than a causal one. Mechanistic interpretability aims to understand these variables as well as the algorithms a model uses to perform tasks. These are the same algorithms we would have crafted by hand in the pre-deep learning era. To put it simply, in a hypothetical world where we can completely represent cows using their ‘moo’ sound and their tail, mechanistic interpretability aims to extract a Ax + By + Cz algorithm from the model where x is the ‘moo’ sound, y is the tail and z represents grass. Now, even if the model uses confounding variables like z in this case, mech interp helps identify the confounding variable and allows us to directly edit the model by zeroing out the confounding variable’s weight (C in this case).</p>
+
+<p>This is very much an oversimplification and gives an idealized view of neural networks. Some of the reasons why this is difficult—borderline impossible—is that a lot of the variables networks learn are entangled. One neuron might correspond to multiple concepts. Or there might be learned features we don’t understand or perhaps there are hidden features that the model uses but we can’t extract. On a philosophical point, that’s a bit similar to why we can’t accurately predict the future. We might think that a specific event is certain because we have controlled all the variables but the future might be dependent on causal variables we don’t know exist (latent variables).</p>
 
   </article>
 
