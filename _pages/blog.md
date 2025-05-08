@@ -2,7 +2,7 @@
 layout: page
 title: Blogs
 permalink: /blog/
-description: Daily unedited evening thoughts. 
+description: Evening thoughts, unedited. 
 nav: true
 nav_order: 3
 horizontal: false
