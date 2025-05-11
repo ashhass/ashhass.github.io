@@ -196,6 +196,10 @@ collections:
     output: true
     permalink: /:collection/:title/
 
+  logs:
+    output: true
+    permalink: /logs/:name/
+
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
@@ -304,6 +308,7 @@ jekyll-archives:
 
 display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
