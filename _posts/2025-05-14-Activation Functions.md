@@ -1,0 +1,5 @@
+---
+layout: page
+description: 
+---
+How do activation functions affect the degree of model interpretability? Activation functions provide models with higher capability to represent non-linear functions. But, introducing non-linearity makes it harder to trace the flow of information through the network. One upside of activation functions, like ReLU, is that it increases the sparsity of outputs making it easier to discard irrelevant neurons and attribute features more confidently to activated neurons. This is because ReLU diminishes weakly activated neurons to 0. Functions like sigmoid produce saturated values which result in distributed representations where many neurons weakly contribute to representing certain features. This makes it seem that every neuron is contributing slightly to every concept ultimately resulting in superposition.
