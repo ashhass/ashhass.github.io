@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blogs
+title: Notes
 permalink: /blog/
 description: Evening thoughts, unedited. 
 nav: true
